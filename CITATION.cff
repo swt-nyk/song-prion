@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Nayak"
+    given-names: "Swatit"
+title: "song-prion: High-throughput computational pipeline for PrDs and IDRs"
+date-released: 2026-09-13
+url: "https://github.com/swt-nyk/song-prion"
