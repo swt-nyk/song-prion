@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Testing & output files
+.pytest_cache/
+data/*.fasta
+outputs/
+*.log
